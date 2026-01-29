@@ -11,6 +11,12 @@ def print_age(birth_year):
     age = current_year - birth_year
     print(f"Age: {age}")
 
-name = "KS"
-birth_year = 1987
+#taking user input
+name = input("Enter your name: ")
+birth_year = input("Enter your birth year: ")
+
+#converting birth year to integer
+birth_year = int(birth_year)
+
+#calling the greet function
 greet(name, birth_year)

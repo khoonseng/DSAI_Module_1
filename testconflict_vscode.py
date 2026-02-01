@@ -1,2 +1,4 @@
 a = "apple"
 b = "banana"
+c = "coconut"
+d = "dragonfruit"

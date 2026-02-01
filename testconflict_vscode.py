@@ -1,5 +1,5 @@
 a = "apple"
 b = "banana"
-c = "coconut"
+c = "cherry"
 d = "dragonfruit"
 e = "elderberry"

@@ -1,4 +1,5 @@
 a = "apple"
 b = "banana"
 c = "cherry"
-d = "durian"
+d = "dragonfruit"
+e = "elderberry"
